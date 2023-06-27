@@ -9,4 +9,4 @@ Assignment2: Logistic Lasso with Proximal Gradient Descent, Kernel SVM (Support 
 
 Assignment3: Kernel Ridge Regression with Gaussian Kernel, Ada Boost
 
-Other topics: Decision trees, Random Forests, Neural Networks, etc.
+Other topics: Decision trees, Random Forests, Neural Networks, Reinforcement Learning, etc.
